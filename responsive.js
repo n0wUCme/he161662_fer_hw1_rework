@@ -1,0 +1,3 @@
+NodeFilter  = function  (node) {
+
+}
